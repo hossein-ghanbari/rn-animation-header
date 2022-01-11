@@ -1,6 +1,6 @@
 {
   "name": "rn-animation_header",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "animation header component for react native",
   "main": "index.ts",
   "scripts": {
