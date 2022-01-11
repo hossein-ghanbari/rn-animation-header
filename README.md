@@ -11,11 +11,11 @@ example in github (https://github.com/hossein-ghanbari/rn-animation_header)
 
 <AnimationHeader
 <br />
-  headerComponent={Header}
+  headerComponent={headerComponent}
 <br />
-  headerHeight={65}
+  headerHeight={headerHeight}
 <br />
-  bodyComponent={Body}
+  bodyComponent={bodyComponent}
 <br />
 />
 
