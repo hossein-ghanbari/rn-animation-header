@@ -1,8 +1,8 @@
 {
   "name": "rn-animation_header",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "animation header component for react native",
-  "main": "index.ts",
+  "main": "index.tsx",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
