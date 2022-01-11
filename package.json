@@ -1,0 +1,20 @@
+{
+  "name": "rn-animation_header",
+  "version": "1.0.5",
+  "description": "animation header component for react native",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "animation_header",
+    "react-native-animation_header",
+    "rn-animation_header"
+  ],
+  "author": "hossein ghanbari <hossein.ghanbari.hg73@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hossein-ghanbari/rn-animation_header"
+  }
+}
