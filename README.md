@@ -1,9 +1,9 @@
-# rn-animation_header
+# rn-animation-header
 
 animation header component for react native
 
 <br />
-example in github (https://github.com/hossein-ghanbari/rn-animation_header)
+example in github (https://github.com/hossein-ghanbari/rn-animation-header)
 <br />
 <br />
 
