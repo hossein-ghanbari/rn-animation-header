@@ -1,5 +1,5 @@
 {
-  "name": "rn-animation_header",
+  "name": "rn-animation-header",
   "version": "1.0.4",
   "description": "animation header component for react native",
   "main": "index.tsx",
@@ -8,13 +8,13 @@
   },
   "keywords": [
     "react-native",
-    "animation_header",
-    "react-native-animation_header",
-    "rn-animation_header"
+    "animation-header",
+    "react-native-animation-header",
+    "rn-animation-header"
   ],
   "author": "hossein ghanbari <hossein.ghanbari.hg73@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hossein-ghanbari/rn-animation_header"
+    "url": "git://github.com/hossein-ghanbari/rn-animation-header"
   }
 }
